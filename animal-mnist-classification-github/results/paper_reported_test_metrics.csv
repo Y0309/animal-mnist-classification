@@ -1,0 +1,4 @@
+model,accuracy_percent,precision_macro_percent,recall_macro_percent,f1_macro_percent
+Logistic Regression,77.30,77.44,77.30,77.32
+MLP,88.60,88.63,88.60,88.59
+CNN,96.30,96.32,96.30,96.29
