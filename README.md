@@ -135,7 +135,4 @@ Limitations include one small grayscale dataset, only three model implementation
 
 Please cite the Animal-MNIST dataset and acknowledge its authors when reusing it. See the [dataset repository](https://github.com/SinaSR-6/Animal-MNIST) for its current citation guidance.
 
-## Course context
 
-SC/MATH 4036 3.00 — Introduction to Machine Learning  
-Project route: **Cool ML Build**
